@@ -51,12 +51,15 @@ Debemos crear una aplicacion Web responsiva la cual nos permita conectarnos a la
 - Nuestro Website debe tener Home (/home), Lista de personajes (/characters), y detalle de personaje (/detail), en caso que no encuentre alguna URL debera enviar al /home.
 
 - En el Home se va a mostrar 3 Imagenes aleatorias de los personajes y un boton de (Ver todos) - Mockup 1.
+
 ![alt text](https://raw.githubusercontent.com/carlosrojaso/Devhack-1/master/img/1.png)
 
 - En la lista de personajes se va a mostrar la lista en forma de Grid de todos los personajes, aca puedes usar un Infinite Scroll o un sistema de paginacion. - Mockup 2
+
 ![alt text](https://raw.githubusercontent.com/carlosrojaso/Devhack-1/master/img/2.png)
 
 - En el detalle deberas mostrar la imagen y la info del personaje elegido, en caso de no tener info puedes usar un [Loren Ipsum](https://lipsum.com/) - Mockup 3
+
 ![alt text](https://raw.githubusercontent.com/carlosrojaso/Devhack-1/master/img/3.png)
 
 ### Adicionales
