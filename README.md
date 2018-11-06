@@ -28,7 +28,7 @@ Debemos crear una aplicacion Web responsiva la cual nos permita conectarnos a la
 
 ### Adicionales
 
-- A medida que vayas avanzando en la solucion realizar los commits en un repo privado en bitbucket.
+- A medida que vayas avanzando en la solucion realizar los commits en un repo publico en bitbucket.
 
 - Cuando hayas terminado el ejercicio realizar un build para produccion y enviarlo a `firebase` con un `$ firebase deploy` o algun sistema parecido.
 
