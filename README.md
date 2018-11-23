@@ -32,8 +32,9 @@ Debemos crear una aplicacion Web responsiva la cual nos permita conectarnos a la
 
 - Cuando hayas terminado el ejercicio realizar un build para produccion y enviarlo a `firebase` con un `$ firebase deploy` o algun sistema parecido.
 
+- Agregar pruebas unitarias al Servicio y al menos a un componente.
+
 ### Bonus Point (Opcionales).
 
-- Agregar pruebas unitarias.
 - Agregar un indicador de carga para los requests.
 - Agregar lazy loading.
